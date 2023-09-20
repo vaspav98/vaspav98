@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋 My name is Pavel Vasilev
+<img src="https://media.giphy.com/media/Uaxj062PavgqZRhVkS/giphy.gif" width="100"/>
+I started programming about a year ago and I'm in the process of changing careers now. I have always liked and been able to do work with long, focused attention of an intellectual nature, at the end of which you see the results of your work. I am currently continuing to develop and learn programming at the Hexlet online school.  
 
-<!--
-**vaspav98/vaspav98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Education:
+  - Hexlet, java-developer
+  - Russian Economic University G.V. Plekhanov, Bachelor in Technological Machinery and Equipment
+- 📃 Work experience: Design engineer of low-voltage electrical installations
+- 💻 Skills:
+  - Java core
+  - Java Collections Framework
+  - Java OOP
+  - IntelliJ IDEA
+  - Git, GitHub
+  - JUnit, AssertJ
+  - CI (GitHub Actions)
+  - Gradle
+  - Command line 
+- 💼 Employment status: looking for work
+- 🙃 Just: In my free time, I play classical guitar as part of an ensemble and solo, read books, and enjoy board games
