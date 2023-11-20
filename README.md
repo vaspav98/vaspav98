@@ -11,7 +11,10 @@ I started programming about a year ago and I'm in the process of changing career
   - Java core
   - Java Collections Framework
   - Java OOP
-  - IntelliJ IDEA
+  - Spring Boot
+  - Spring Security
+  - Spring Data JPA
+  - H2 & PostgreSQL
   - Git, GitHub
   - JUnit, AssertJ
   - CI (GitHub Actions)
